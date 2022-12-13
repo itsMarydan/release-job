@@ -1,0 +1,8 @@
+{
+  "createRelease": false,
+  "breakingChanges": false,
+  "changeLogId": 6789,
+  "shortDescription": "Enter A Short Description",
+  "releaseType":"minor",
+  "blame": "itsMaryDan"
+}
