@@ -1,0 +1,16 @@
+  {
+    "platformName": "equalizer",
+    "platformMajor": "5.x.x",
+    "serviceName": "sagas",
+    "exitingVersion": "",
+    "serviceVersion":"",
+    "releaseType" :"minor",
+    "timestamp": "",
+    "triggerMajor": false,
+    "changeLogId": 433,
+    "shortDescription":"Short",
+    "imageName":"",
+    "imageTag": "",
+    "deprecationCount": 0,
+    "exitCount": 0
+  }

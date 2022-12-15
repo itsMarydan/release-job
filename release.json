@@ -1,8 +1,1 @@
-{
-  "createRelease": false,
-  "breakingChanges": false,
-  "changeLogId": 6789,
-  "shortDescription": "Enter A Short Description",
-  "releaseType":"minor",
-  "blame": "itsMaryDan"
-}
+{"createRelease": false, "breakingChanges": false, "changeLogId": 1111, "isRevision": false, "shortDescription": "Enter A Short Description", "blame": "itsMaryDan", "deprecationCount": 1, "exitCount": 1}

@@ -2,7 +2,9 @@
   "createRelease": false,
   "breakingChanges": false,
   "changeLogId": 1111,
+  "isRevision": false,
   "shortDescription": "Enter A Short Description",
-  "releaseType":"minor",
-  "blame": "noOne"
+  "blame": "itsMaryDan",
+  "deprecationCount": 1,
+  "exitCount": 1
 }

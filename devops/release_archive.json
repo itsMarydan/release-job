@@ -1,18 +1,32 @@
 [
   {
     "platformName": "equalizer",
-    "platformMajor": "5.x.x",
     "serviceName": "sagas",
-    "exitingVersion": "",
-    "serviceVersion":"",
-    "releaseType" :"minor",
+    "serviceVersion": "5.2.6",
+    "releaseType": "revision",
     "timestamp": "",
-    "triggerMajor": false,
+    "triggerBuild": false,
     "changeLogId": 433,
-    "shortDescription":"Short",
-    "imageName":"",
-    "imageTag": "",
+    "shortDescription": "Short",
+    "imageName": "equalizer/sagas",
+    "imageTag": "5.2.6",
     "deprecationCount": 0,
-    "exitCount": 0
-    }
+    "exitCount": 0,
+    "blame": ""
+  },
+  {
+    "platformName": "equalizer",
+    "serviceName": "sagas",
+    "serviceVersion": "5.2.7",
+    "releaseType": "revision",
+    "timestamp": "",
+    "triggerBuild": false,
+    "changeLogId": 433,
+    "shortDescription": "Short",
+    "imageName": "equalizer/sagas",
+    "imageTag": "5.2.7",
+    "deprecationCount": 1,
+    "exitCount": 1,
+    "blame": ""
+  }
 ]
