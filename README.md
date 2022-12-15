@@ -46,7 +46,7 @@ This is a simple job that will run on every push to the master branch. It will b
 To include this into your project, add the following to your .git-actions-ci.yml file:
 
 ```yaml
-name: Resources
+name: Release Job
 on: repository_dispatch
 jobs:
     resources:
